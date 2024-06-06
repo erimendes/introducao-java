@@ -8,7 +8,6 @@ import java.time.LocalDate;
 import java.time.format.TextStyle;
 import java.util.Locale;
 
-// The main method must be in a class named "Main".
 class Main {
     public static void main(String[] args) {
         int nota = 90;
